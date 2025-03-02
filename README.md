@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddhi Kul</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERN stack, AI/ML**
+- 🌱 I’m currently learning **Business Analysis**
 
-- 👯 I’m looking to collaborate on **MERN stack**
+- 👯 I’m looking to collaborate on **Business Analyst**
 
-- 💬 Ask me about **ReactJs, Java, Python, MySql**
+- 💬 Ask me about **SQL, Power BI, Python,Excel**
 
 - 📫 How to reach me **siddhikul20@gmail.com**
 
