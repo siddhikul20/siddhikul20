@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhi Kul</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 - 🌱 I’m currently learning **Business Analysis**
 
