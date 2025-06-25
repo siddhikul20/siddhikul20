@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhi Kul</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🌱 I’m currently learning **Business Analysis**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **Business Analyst**
+- 👯 I’m looking to collaborate on **Data Analyst**
 
 - 💬 Ask me about **SQL, Power BI, Python,Excel**
 
